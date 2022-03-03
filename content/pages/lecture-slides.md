@@ -89,7 +89,7 @@ Cases Selection and its Challenges
 
 Evaluating a (Small) Body of Work: The Effects of Candidate Appearance
 
-{{< resource_link c0406dfd-49da-fb39-2890-471e86cdc256 "Using Qualtrics to Conduct Online Surveys (PDF)" >}}
+{{% resource_link c0406dfd-49da-fb39-2890-471e86cdc256 "Using Qualtrics to Conduct Online Surveys (PDF)" %}}
 
 
 {{< tdclose >}}

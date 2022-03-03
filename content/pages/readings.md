@@ -139,7 +139,7 @@ Ashworth, Scott, Joshua D. Clinton, Adam Meirowitz, et al. “[Design, Inference
 
 Axelrod, Robert. "The Live-and-Let-Live System in Trench Warfare in World War I". Chapter 4 in _The Evolution of Cooperation._ Basic Books, 2006. ISBN: 9780465005642.
 
-Lawson, J. Chappell. “{{< resource_link becc0e43-f256-a201-2f33-acb839d531aa "Theses I Wish Someone Would Write (PDF)" >}}.” 
+Lawson, J. Chappell. “{{% resource_link becc0e43-f256-a201-2f33-acb839d531aa "Theses I Wish Someone Would Write (PDF)" %}}.” 
 
 
 {{< tdclose >}}
@@ -243,7 +243,7 @@ Telma, Kate. “[When Castes Collide: PhD student Matt Lowe Uses Cricket Tournam
 
 Wood, Elisabeth Jean. “Field Research.” Chapter 5 in _The Oxford Handbook of Comparative Politics_. Edited by Carles Boix and Susan C. Stokes. Oxford University Press, 2009. ISBN: 9780199566020. 
 
-Lawson, Chappell. “{{< resource_link e7e85368-b478-fe9c-a3b4-b1cc97a45a0f "Can Field Work Be 'Scientific'? (PDF)" >}}” 
+Lawson, Chappell. “{{% resource_link e7e85368-b478-fe9c-a3b4-b1cc97a45a0f "Can Field Work Be 'Scientific'? (PDF)" %}}” 
 
 DeWalt, Kathleen M., and Billie R. Dewalt. "Doing Participation Observation: Becoming a Participant." Chapter 3 in _Participant Observation: A Guide for Fieldworkers_. Alta Mira Press, 2001. ASIN: B01A65KPQC. \[Preview with [Google Books](https://books.google.com/books?id=p1wcO3UNXQ4C&pg=PA35=onepage#v=onepage&q&f=false)\]
 
@@ -265,7 +265,7 @@ Conducting Field Research, Part II: Interviews
 
 Leech, Beth L. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Asking Questions: Techniques for Semistructured Interviews.” (PDF)](https://dornsife.usc.edu/assets/sites/298/docs/interviewing_techniques_asking_questions.pdf) _PS: Political Science and Politics_ (2002): 665–68.
 
-Lawson, Chappell. “{{< resource_link 8d57a45e-cbbc-073c-54c7-e795c63a1c65 "Interview Guide (PDF)" >}}.” 
+Lawson, Chappell. “{{% resource_link 8d57a45e-cbbc-073c-54c7-e795c63a1c65 "Interview Guide (PDF)" %}}.” 
 
 
 {{< tdclose >}}
@@ -321,7 +321,7 @@ Picking Research Questions
 
 \[S\] Chapter 2: Political Theories and Research Topics, pp. 27–31.
 
-Lawson, Chappell. “{{< resource_link becc0e43-f256-a201-2f33-acb839d531aa "Theses I Wish Someone Would Write (PDF)" >}}.” 
+Lawson, Chappell. “{{% resource_link becc0e43-f256-a201-2f33-acb839d531aa "Theses I Wish Someone Would Write (PDF)" %}}.” 
 
 
 {{< tdclose >}}
