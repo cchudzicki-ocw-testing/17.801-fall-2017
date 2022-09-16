@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains information about the final project.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
